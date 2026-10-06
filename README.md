@@ -63,7 +63,7 @@ Planned `requirements.txt`: numpy, scipy, pandas, matplotlib, scikit-learn, stre
 | Smaran Pokala | TBD |
 | Sai Sathwik Panduri | TBD |
 | Gauri | TBD |
-| Rosie | TBD |
+| Rosy Baidya | TBD |
 
 Suggested roles: Modeller, Detector lead, Dashboard and demo, Docs and pitch.
 
