@@ -76,6 +76,10 @@ All external datasets, libraries and code must be listed here (event rule 9 and 
 | NumPy, SciPy, pandas, Matplotlib, scikit-learn, Streamlit | Libraries | Modelling, analysis, dashboard | Official docs |
 | NASA Li-ion Battery Aging Datasets (Ames Prognostics Center of Excellence) | Dataset | Battery behaviour and model validation | Add link |
 
+## AI tools used
+
+We used an AI assistant (Claude) for learning and support only: explaining concepts, reviewing and debugging our code, and research. The design, code and final solution were written and are understood by the team members. AI was not used to build the whole project, in line with the event rules.
+
 ## Originality statement
 
 The idea, design and implementation in this repository were created by the team during the event. Third-party datasets and libraries are acknowledged above.
